@@ -4,10 +4,14 @@ Installing and configuring Arch Linux on the
 
 # Status
 
-    As of about 8/10/2018,  Arch is installed and I have xorg with LXDE working well 
-enough that this can be used comfortably enough as a laptop.  I've worked through plenty 
-of issues already, and there are plenty remaining, but I'm confident these will all be 
+As of about 8/10/2018,  Arch is installed and I have xorg with LXDE working well enough 
+that this can be used comfortably enough as a laptop.  I've worked through plenty of 
+issues already, and there are plenty remaining, but I'm confident these will all be 
 resolved in time and that this will be my everyday device.
+
+# Installation instructions
+
+TBD (in progess)
 
 # To Do
 
