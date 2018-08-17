@@ -1,0 +1,25 @@
+GPT fdisk (gdisk) version 1.0.4
+
+The protective MBR's 0xEE partition is oversized! Auto-repairing.
+
+Partition table scan:
+  MBR: protective
+  BSD: not present
+  APM: not present
+  GPT: present
+
+Found valid GPT with protective MBR; using GPT.
+Disk /dev/mmcblk0: 61071360 sectors, 29.1 GiB
+Sector size (logical/physical): 512/512 bytes
+Disk identifier (GUID): 0FD7C344-5745-4B77-9236-102B23A4E776
+Partition table holds up to 128 entries
+Main partition table begins at sector 2 and ends at sector 33
+First usable sector is 34, last usable sector is 61071326
+Partitions will be aligned on 2048-sector boundaries
+Total free space is 4029 sectors (2.0 MiB)
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1            2048          206847   100.0 MiB   EF00  EFI system partition
+   2          206848          239615   16.0 MiB    0C01  Microsoft reserved ...
+   3          239616        59021311   28.0 GiB    0700  Basic data partition
+   4        59021312        61069311   1000.0 MiB  2700  Basic data partition
