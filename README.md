@@ -5,13 +5,15 @@ Installing and configuring Arch Linux on the
 # Status
 
 As of about 8/10/2018,  Arch is installed and I have xorg with LXDE working well enough 
-that this can be used comfortably enough as a laptop.  I've worked through plenty of 
-issues already, and there are plenty remaining, but I'm confident these will all be 
+that this can be used comfortably enough as a laptop.  I've worked through several issues 
+already, and there are plenty remaining, but I'm confident these will all be 
 resolved in time and that this will be my everyday device.
 
-# Installation instructions
+# Installation Instructions
 
-TBD (in progess)
+- My instructions can be found [here](https://github.com/RayFoulk/ArchOnCambio/InstallationInstructions.md)
+- These aren't necessarily _the_ way of accomplishing this, just _a_ way that I 
+personally managed to get things working.  YMMV.
 
 # To Do
 
