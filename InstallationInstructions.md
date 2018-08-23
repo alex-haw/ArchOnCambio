@@ -1,21 +1,29 @@
-# Perform Windows Hardware Dumps
+## Perform Windows Hardware Dumps
 
-# Making Bootable USB
+## Making Bootable USB
 
-# Getting Into the BIOS
+## Getting Into the BIOS
 
-# Booting Arch on USB
+The [vendor-provided instructions](https://rcaav.com/faq_support/i-need-to-enter-the-bios-of-the-tablet-w101v2/)
+on how to get into the BIOS does *not* work, at first, because the Windows EFI boot loader 
+preempts it.  Hitting ESC seems to work after Windows has been blown away completely, 
+however I did discover that holding the Volume-Up and Power-On buttons simultaneously does 
+in fact work.  Use this method if you want Windows 10 to never be booted at all, and maybe 
+you'll get lucky in claiming a refund from Microsoft, further reducing the cost of your 
+low-end tablet :)
 
-# Connecting Wireless
+## Booting Arch on USB
 
-# Back Up Original eMMC Image
+## Connecting Wireless
 
-# Re-Partition the eMMC
+## Back Up Original eMMC Image
 
-# Setting up Encrypted Home on Sdcard
+## Re-Partition the eMMC
 
-# Calibrating the Touchscreen
+## Setting up Encrypted Home on Sdcard
 
-# Getting Sound to Work
+## Calibrating the Touchscreen
+
+## Getting Sound to Work
 
 
