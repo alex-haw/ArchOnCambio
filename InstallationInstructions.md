@@ -1,7 +1,9 @@
 # Installation Instructions
 
-
 ## Perform Windows Hardware Dumps
+
+Note that per the vendor, installing an alternate OS voids the warranty, however I wanted 
+assurance that I'd have a path back in the event this experiment didn't work out. 
 
 ## Making Bootable USB
 
@@ -22,6 +24,10 @@ low-end tablet :)
 ## Back Up Original eMMC Image
 
 ## Re-Partition the eMMC
+
+## Installation & Configuration Tweaks
+
+grub bootloader default config
 
 ## Setting up Encrypted Home on Sdcard
 
