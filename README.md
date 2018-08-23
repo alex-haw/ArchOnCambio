@@ -11,13 +11,13 @@ resolved in time and that this will be my everyday device.
 
 # Installation Instructions
 
-- My instructions can be found [here](https://github.com/RayFoulk/ArchOnCambio/InstallationInstructions.md)
-- These aren't necessarily _the_ way of accomplishing this, just _a_ way that I 
-personally managed to get things working.  YMMV.
+- My instructions can be found [here](https://github.com/RayFoulk/ArchOnCambio/blob/master/InstallationInstructions.md)
+- These aren't necessarily _the_ way of accomplishing this, just how I did it.  YMMV.
 
 # To Do
 
 - Finish getting touchscreen calibrated
+-- It seems to me that no-one has truly 'done the math' on this, including the distinction between the Coordinate Translation Matrix versus the Calibration Matrix 
 - Get sound working
 - Get auto-rotate working via accelerometer
 - Get Front and Rear cameras working (ov2680 on i2c bus)
