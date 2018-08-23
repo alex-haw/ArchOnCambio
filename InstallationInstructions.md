@@ -1,4 +1,4 @@
-# Installationo Instructions
+# Installation Instructions
 
 
 ## Perform Windows Hardware Dumps
