@@ -17,15 +17,25 @@ resolved in time and that this will be my everyday device.
 ## To Do
 
 - Finish getting touchscreen calibrated
--- It seems to me that no-one has truly 'done the math' on this, including the distinction between the Coordinate Translation Matrix versus the Calibration Matrix 
+  - It seems that no-one has really solved the general case here, although there is 
+    lots of work being done on xinput_calibrator, so that's hopeful.
+  - xorg configuration files in /etc/X11/xorg.conf.d use a slightly different nomenclature
+    for key/type/value than xinput, which can be confusing.
 - Get sound working
 - Get auto-rotate working via accelerometer
 - Get Front and Rear cameras working (ov2680 on i2c bus)
+  - Arch kernels have not yet picked up ov2680 module
+  - Linus' kernel.org git repo for 4.18 contains the ov2680 module, which builds and 
+modprobe loads it, but there are no /dev/videoN devices created.  Suspect udev script 
+needs to be modified or do mknod manually might fix this.
+
 
 ## Related Projects
 
-- devinsmith's [rca-cambio-linux](https://github.com/devinsmith/rca-cambio-linux)
-- onitake's [gsl-firmware](https://github.com/onitake/gsl-firmware/tree/master/firmware/rca/w101v2)
-- plbossart's [UCM](https://github.com/plbossart/UCM)
+- devinsmith: [rca-cambio-linux](https://github.com/devinsmith/rca-cambio-linux)
+- onitake: [gsl-firmware](https://github.com/onitake/gsl-firmware/tree/master/firmware/rca/w101v2)
+- plbossart: [UCM](https://github.com/plbossart/UCM)
+- reinderien: [xcal](https://github.com/reinderien/xcal)
+
 
 
