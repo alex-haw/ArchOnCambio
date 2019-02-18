@@ -4,6 +4,9 @@ Installing and configuring Arch Linux on the
 
 ## Status
 
+UPDATE: 2/18/2019
+This project is an unfinished Work In Progress!  I have not had time to work on it in several months.  In brief: for those considering buying this tablet and attempting to install Linux on it (any flavor), I would recommend spending the additional money on a different model tablet as the time you will save in configuring it will be more than worth it.  This project is for those who are not afraid to hack the kernel, submit patches, and spend _weeks_ doggedly trying to get a specific driver working.  You have been warned.  
+
 As of about 8/10/2018,  Arch is installed and I have xorg with LXDE working well enough 
 that this can be used comfortably enough as a laptop.  I've worked through several issues 
 already, and there are plenty remaining, but I'm confident these will all be 
