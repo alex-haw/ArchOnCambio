@@ -1,0 +1,590 @@
+System Information report written at: 08/06/18 09:29:48
+System Name: DESKTOP-IP85GV0
+[Components]
+
+
+
+[Multimedia]
+
+
+
+[Audio Codecs]
+
+CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
+c:\windows\system32\msg711.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSG711.ACM	10.0.10586.0	22.72 KB (23,264 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\msgsm32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSGSM32.ACM	10.0.10586.0	35.86 KB (36,720 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\msadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSADP32.ACM	10.0.10586.0	28.75 KB (29,440 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\l3codeca.acm	Fraunhofer Institut Integrierte Schaltungen IIS	Fraunhofer IIS MPEG Layer-3 Codec	OK	C:\WINDOWS\system32\L3CODECA.ACM	1.9.0.401	71.50 KB (73,216 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\imaadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\IMAADP32.ACM	10.0.10586.0	29.79 KB (30,504 bytes)	10/30/2015 1:44 AM	
+
+[Video Codecs]
+
+CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
+c:\windows\system32\msyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSYUV.DLL	10.0.10586.0	23.50 KB (24,064 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\tsbyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\TSBYUV.DLL	10.0.10586.0	13.50 KB (13,824 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\msvidc32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSVIDC32.DLL	10.0.10586.0	32.50 KB (33,280 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\iyuv_32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\IYUV_32.DLL	10.0.10586.0	48.50 KB (49,664 bytes)	10/30/2015 1:44 AM	
+c:\windows\system32\iccvid.dll	Radius Inc.		OK	C:\WINDOWS\system32\ICCVID.DLL	1.10.0.12	84.50 KB (86,528 bytes)	10/30/2015 1:45 AM	
+c:\windows\system32\msrle32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSRLE32.DLL	10.0.10586.0	14.50 KB (14,848 bytes)	10/30/2015 1:44 AM	
+
+[CD-ROM]
+
+Item	Value	
+
+[Sound Device]
+
+Item	Value	
+Name	Intel SST Audio Device (WDM)	
+Manufacturer	Intel Corporation	
+Status	OK	
+PNP Device ID	ACPI\808622A8\1	
+Memory Address	0x91400000-0x915FFFFF	
+Memory Address	0x91834000-0x91834FFF	
+Memory Address	0x20000000-0x201FFFFF	
+IRQ Channel	IRQ 24	
+IRQ Channel	IRQ 25	
+IRQ Channel	IRQ 26	
+IRQ Channel	IRQ 27	
+IRQ Channel	IRQ 28	
+IRQ Channel	IRQ 29	
+IRQ Channel	IRQ 1028	
+Driver	c:\windows\system32\drivers\isstrtc.sys (604.10135.2747.5232, 616.51 KB (631,304 bytes), 5/14/2016 6:21 AM)	
+
+[Display]
+
+Item	Value	
+Name	Intel(R) HD Graphics	
+PNP Device ID	PCI\VEN_8086&DEV_22B0&SUBSYS_72708086&REV_36\3&11583659&1&10	
+Adapter Type	Intel(R) HD Graphics, Intel Corporation compatible	
+Adapter Description	Intel(R) HD Graphics	
+Adapter RAM	1.00 GB (1,073,741,824 bytes)	
+Installed Drivers	igdumdim32.dll,igd10iumd32.dll,igd10iumd32.dll,igd12umd32.dll	
+Driver Version	20.19.15.4352	
+INF File	oem26.inf (iCHVM_w10 section)	
+Color Planes	Not Available	
+Color Table Entries	4294967296	
+Resolution	800 x 1280 x 60 hertz	
+Bits/Pixel	32	
+Memory Address	0x90000000-0x90FFFFFF	
+Memory Address	0x80000000-0x8FFFFFFF	
+I/O Port	0x0000F000-0x0000F03F	
+IRQ Channel	IRQ 4294967292	
+Driver	c:\windows\system32\drivers\igdkmd32lp.sys (20.19.15.4352, 6.31 MB (6,611,944 bytes), 5/14/2016 6:21 AM)	
+
+[Infrared]
+
+Item	Value	
+
+[Input]
+
+
+
+[Keyboard]
+
+Item	Value	
+Description	HID Keyboard Device	
+Name	Enhanced (101- or 102-key)	
+Layout	00000409	
+PNP Device ID	HID\MSSL1680&COL02\5&3A617C48&0&0001	
+Number of Function Keys	12	
+Driver	c:\windows\system32\drivers\kbdhid.sys (10.0.10586.0, 26.00 KB (26,624 bytes), 10/30/2015 1:44 AM)	
+		
+Description	HID Keyboard Device	
+Name	Enhanced (101- or 102-key)	
+Layout	00000409	
+PNP Device ID	HID\INTC816&COL01\4&1B726E3A&0&0000	
+Number of Function Keys	12	
+Driver	c:\windows\system32\drivers\kbdhid.sys (10.0.10586.0, 26.00 KB (26,624 bytes), 10/30/2015 1:44 AM)	
+		
+Description	USB Input Device	
+Name	Enhanced (101- or 102-key)	
+Layout	00000409	
+PNP Device ID	USB\VID_17EF&PID_6018&MI_00\6&222C37B7&0&0000	
+Number of Function Keys	12	
+Driver	c:\windows\system32\drivers\hidusb.sys (10.0.10586.0, 26.00 KB (26,624 bytes), 10/30/2015 1:44 AM)	
+		
+Description	HID Keyboard Device	
+Name	Enhanced (101- or 102-key)	
+Layout	00000409	
+PNP Device ID	HID\CONVERTEDDEVICE&COL01\5&38154DAB&0&0000	
+Number of Function Keys	12	
+Driver	c:\windows\system32\drivers\kbdhid.sys (10.0.10586.0, 26.00 KB (26,624 bytes), 10/30/2015 1:44 AM)	
+
+[Pointing Device]
+
+Item	Value	
+Hardware Type	HID-compliant mouse	
+Number of Buttons	0	
+Status	OK	
+PNP Device ID	HID\VID_17EF&PID_6018&MI_01&COL03\7&337003C7&0&0002	
+Power Management Supported	No	
+Double Click Threshold	Not Available	
+Handedness	Not Available	
+Driver	c:\windows\system32\drivers\mouhid.sys (10.0.10586.0, 22.50 KB (23,040 bytes), 10/30/2015 1:44 AM)	
+
+[Modem]
+
+Item	Value	
+
+[Network]
+
+
+
+[Adapter]
+
+Item	Value	
+Name	[00000000] Microsoft Kernel Debug Network Adapter	
+Adapter Type	Not Available	
+Product Type	Microsoft Kernel Debug Network Adapter	
+Installed	Yes	
+PNP Device ID	ROOT\KDNIC\0000	
+Last Reset	8/6/2018 8:38 AM	
+Index	0	
+Service Name	kdnic	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\kdnic.sys (6.1.0.0, 17.00 KB (17,408 bytes), 10/30/2015 1:44 AM)	
+		
+Name	[00000001] Realtek RTL8723BS Wireless LAN 802.11n SDIO Network Adapter	
+Adapter Type	Ethernet 802.3	
+Product Type	Realtek RTL8723BS Wireless LAN 802.11n SDIO Network Adapter	
+Installed	Yes	
+PNP Device ID	SD\VID_024C&PID_B723\4&32D17375&1&0	
+Last Reset	8/6/2018 8:38 AM	
+Index	1	
+Service Name	RtlWlans	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	* C0:21:0D:C0:D7:C5, 	
+IRQ Channel	IRQ 1039	
+Driver	c:\windows\system32\drivers\rtwlans.sys (3008.28.201.2016, 4.08 MB (4,282,072 bytes), 5/14/2016 6:57 AM)	
+		
+Name	[00000002] Microsoft Wi-Fi Direct Virtual Adapter	
+Adapter Type	Ethernet 802.3	
+Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
+Installed	Yes	
+PNP Device ID	{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&1B2E17E8&0&13	
+Last Reset	8/6/2018 8:38 AM	
+Index	2	
+Service Name	vwifimp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	* C2:21:0D:C0:D7:C5, 	
+Driver	c:\windows\system32\drivers\vwifimp.sys (10.0.10586.0, 29.50 KB (30,208 bytes), 10/30/2015 1:44 AM)	
+		
+Name	[00000003] Bluetooth Device (RFCOMM Protocol TDI)	
+Adapter Type	Not Available	
+Product Type	Bluetooth Device (RFCOMM Protocol TDI)	
+Installed	Yes	
+PNP Device ID	BTH\MS_RFCOMM\6&B0CD3EE&0&0	
+Last Reset	8/6/2018 8:38 AM	
+Index	3	
+Service Name	RFCOMM	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\rfcomm.sys (10.0.10586.212, 137.00 KB (140,288 bytes), 4/28/2016 11:56 PM)	
+		
+Name	[00000004] Bluetooth Device (Personal Area Network)	
+Adapter Type	Ethernet 802.3	
+Product Type	Bluetooth Device (Personal Area Network)	
+Installed	Yes	
+PNP Device ID	BTH\MS_BTHPAN\6&B0CD3EE&0&2	
+Last Reset	8/6/2018 8:38 AM	
+Index	4	
+Service Name	BthPan	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	* C0:21:0D:C6:F2:45, 	
+Driver	c:\windows\system32\drivers\bthpan.sys (10.0.10586.0, 100.50 KB (102,912 bytes), 10/30/2015 1:44 AM)	
+		
+Name	[00000005] Microsoft Wi-Fi Direct Virtual Adapter	
+Adapter Type	Ethernet 802.3	
+Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
+Installed	Yes	
+PNP Device ID	{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&1B2E17E8&0&14	
+Last Reset	8/6/2018 8:38 AM	
+Index	5	
+Service Name	vwifimp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	* C0:21:0D:C0:D7:C5, 	
+Driver	c:\windows\system32\drivers\vwifimp.sys (10.0.10586.0, 29.50 KB (30,208 bytes), 10/30/2015 1:44 AM)	
+		
+Name	[00000006] Microsoft ISATAP Adapter	
+Adapter Type	Not Available	
+Product Type	Microsoft ISATAP Adapter	
+Installed	Yes	
+PNP Device ID	Not Available	
+Last Reset	8/6/2018 8:38 AM	
+Index	6	
+Service Name	tunnel	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+
+[Protocol]
+
+Item	Value	
+Name	Hyper-V RAW	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	36 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	36 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [TCP/IP]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	16 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [UDP/IP]	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	16 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	MSAFD Tcpip [TCP/IPv6]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	28 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [UDP/IPv6]	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	28 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	RSVP TCPv6 Service Provider	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	28 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	RSVP TCP Service Provider	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	16 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	RSVP UDPv6 Service Provider	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	28 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	RSVP UDP Service Provider	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	16 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	MSAFD RfComm [Bluetooth]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	30 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	30 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+
+[WinSock]
+
+Item	Value	
+File	c:\windows\system32\winsock.dll	
+Size	8.75 KB (8,960 bytes)	
+Version	3.10.0.103	
+		
+File	c:\windows\system32\wsock32.dll	
+Size	16.00 KB (16,384 bytes)	
+Version	10.0.10586.0	
+
+[Ports]
+
+
+
+[Serial]
+
+Item	Value	
+Name	Communications Port (COM1)	
+Status	OK	
+PNP Device ID	ACPI\PNP0501\1	
+Maximum Input Buffer Size	0	
+Maximum Output Buffer Size	No	
+Settable Baud Rate	Yes	
+Settable Data Bits	Yes	
+Settable Flow Control	Yes	
+Settable Parity	Yes	
+Settable Parity Check	Yes	
+Settable Stop Bits	Yes	
+Settable RLSD	Yes	
+Supports RLSD	Yes	
+Supports 16 Bit Mode	No	
+Supports Special Characters	No	
+Baud Rate	9600	
+Bits/Byte	8	
+Stop Bits	1	
+Parity	None	
+Busy	No	
+Abort Read/Write on Error	No	
+Binary Mode Enabled	Yes	
+Continue XMit on XOff	No	
+CTS Outflow Control	No	
+Discard NULL Bytes	No	
+DSR Outflow Control	0	
+DSR Sensitivity	0	
+DTR Flow Control Type	Enable	
+EOF Character	0	
+Error Replace Character	0	
+Error Replacement Enabled	No	
+Event Character	0	
+Parity Check Enabled	No	
+RTS Flow Control Type	Enable	
+XOff Character	19	
+XOffXMit Threshold	512	
+XOn Character	17	
+XOnXMit Threshold	2048	
+XOnXOff InFlow Control	0	
+XOnXOff OutFlow Control	0	
+I/O Port	0x000003F8-0x000003FF	
+IRQ Channel	IRQ 4	
+Driver	c:\windows\system32\drivers\serial.sys (10.0.10586.212, 76.00 KB (77,824 bytes), 4/28/2016 11:56 PM)	
+
+[Parallel]
+
+Item	Value	
+
+[Storage]
+
+
+
+[Drives]
+
+Item	Value	
+Drive	C:	
+Description	Local Fixed Disk	
+Compressed	No	
+File System	NTFS	
+Size	28.03 GB (30,096,224,256 bytes)	
+Free Space	21.19 GB (22,756,843,520 bytes)	
+Volume Name	Local Disk	
+Volume Serial Number	06E7794F	
+
+[Disks]
+
+Item	Value	
+Description	Disk drive	
+Manufacturer	(Standard disk drives)	
+Model	Samsung BWBD3R	
+Bytes/Sector	512	
+Media Loaded	Yes	
+Media Type	Fixed hard disk	
+Partitions	3	
+SCSI Bus	0	
+SCSI Logical Unit	0	
+SCSI Port	0	
+SCSI Target ID	0	
+Sectors/Track	63	
+Size	29.12 GB (31,264,289,280 bytes)	
+Total Cylinders	3,801	
+Total Sectors	61,063,065	
+Total Tracks	969,255	
+Tracks/Cylinder	255	
+Partition	Disk #0, Partition #0	
+Partition Size	100.00 MB (104,857,600 bytes)	
+Partition Starting Offset	1,048,576 bytes	
+Partition	Disk #0, Partition #1	
+Partition Size	28.03 GB (30,096,228,352 bytes)	
+Partition Starting Offset	122,683,392 bytes	
+Partition	Disk #0, Partition #2	
+Partition Size	1,000.00 MB (1,048,576,000 bytes)	
+Partition Starting Offset	30,218,911,744 bytes	
+
+[SCSI]
+
+Item	Value	
+Name	Microsoft Storage Spaces Controller	
+Manufacturer	Microsoft	
+Status	OK	
+PNP Device ID	ROOT\SPACEPORT\0000	
+Driver	c:\windows\system32\drivers\spaceport.sys (10.0.10586.0, 417.34 KB (427,360 bytes), 10/30/2015 1:44 AM)	
+		
+Name	SD Storage Class Controller	
+Manufacturer	Generic	
+Status	OK	
+PNP Device ID	SD\VID_15&OID_0000&PID_BWBD3R&REV_0.3\4&7A47DD1&1&0	
+Driver	c:\windows\system32\drivers\sdstor.sys (10.0.10586.17, 74.34 KB (76,128 bytes), 2/13/2016 6:57 AM)	
+
+[IDE]
+
+Item	Value	
+
+[Printing]
+
+Name	Driver	Port Name	Server Name	
+Microsoft XPS Document Writer	Microsoft XPS Document Writer v4	PORTPROMPT:	Not Available	
+Microsoft Print to PDF	Microsoft Print To PDF	PORTPROMPT:	Not Available	
+Fax	Microsoft Shared Fax Driver	SHRFAX:	Not Available	
+
+[Problem Devices]
+
+Device	PNP Device ID	Error Code	
+
+[USB]
+
+Device	PNP Device ID	
+Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)	PCI\VEN_8086&DEV_22B5&SUBSYS_72708086&REV_36\3&11583659&1&A0	
